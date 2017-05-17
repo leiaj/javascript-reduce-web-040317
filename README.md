@@ -190,3 +190,5 @@ Same result, but without using our custom `reduce()` function. Feel free to thro
 * [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-reduce'>Reduce</a> on Learn.co and start learning to code for free.</p>
+
+//RAD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
